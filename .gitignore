@@ -1,0 +1,10 @@
+.project
+.pmd
+.ruleset
+.factorypath
+faces-config.pageflow
+.classpath
+.settings/
+/target/
+*.uexe
+.metadata/
